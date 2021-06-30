@@ -1,6 +1,6 @@
 
 # ignore these folders
-
+.settings/
 .local/
 .screenshots/
 Documentation
